@@ -3,7 +3,7 @@
 Im Zuge des freiwilligen Linux-Workshops haben wir uns mehrere Abende mit Linux auseinandergesetzt. 
 
 ## Inhalt
-- [1. Tag](/Day_1/README.md)
+- [1. Tag](/Day_1/README.MD)
     - Inhalte
 - [2. Tag](Day_2/README.md)
 - [3. Tag](Day_3/README.md)
