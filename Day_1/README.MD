@@ -12,8 +12,8 @@
 |ls     | -l, -ls, -la           |Auflistung der Verzeichnisse|
 |cat    |-less (seitenweise)|Damit können Dateien direkt im Terminal angezeigt werden           |
 |tail   | -f (liveausgabe)           |Ausgabe der letzten 7 linien des files|
-|grep   |       | suche nach etwas in file `grep "root" /etc/passwd`         |
-|netstat|    |      zeigt alle offenen Ports btw. Netzwerkverbindungen|
+|grep   |       | Suche nach etwas in file `grep "root" /etc/passwd`         |
+|netstat|    |      Zeigt alle offenen Ports btw. Netzwerkverbindungen|
 
 ### Verbinden von Befehlen mittels Pipe
 
