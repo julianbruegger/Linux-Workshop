@@ -7,6 +7,7 @@ Im Zuge des freiwilligen Linux-Workshops haben wir uns mehrere Abende mit Linux 
     - Einführung und überblick über Linux
     - Befehle
     - vi editor
+
 - [2. Tag](Day_2/README.md)
 - [3. Tag](Day_3/README.md)
 - [4. Tag](Day_4/README.md)
