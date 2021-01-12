@@ -3,7 +3,7 @@
 ## Ihnalt des heutigen Tages
 - Einführung und überblick über Linux
 - Befehle
--
+- vi editor
 
 ## Befehle 
 |Befehl |Argumente  |Funktion   |
